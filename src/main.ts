@@ -1,7 +1,7 @@
 import "./style.css";
 
-console.log("test");
-// build form to take a text input
+// Render initial todos
+// const todos = ["Buy milk", "Buy eggs", "Buy bread", "Buy rice"];
 
 const form = document.querySelector<HTMLFormElement>("#todo-form");
 
